@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug  8 16:22:42 2020
-
-@author: rikus
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Tue Aug  4 19:24:17 2020
 
 @author: rikus
